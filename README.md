@@ -1,6 +1,6 @@
 ### Hi! My name is Matthew Nguyen 👋
 
-• 📫:   Let's connect! itsmatthewnguyen@gmail.com
+• -📫 Let's connect! itsmatthewnguyen@gmail.com
 
 <!--
 **coosey/coosey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
