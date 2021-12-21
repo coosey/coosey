@@ -1,6 +1,6 @@
 ## Hi! My name is Matthew Nguyen 👋
 
-• :mailbox:  Let's connect! itsmatthewnguyen@gmail.com
+• :mailbox: - itsmatthewnguyen@gmail.com
 
 #### Languages I have used
 ![JavaScript](https://camo.githubusercontent.com/3fef48c9dd876989f3248e19094afc60db5c3af4d18ca40c7c3c6edbf2ae3853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
