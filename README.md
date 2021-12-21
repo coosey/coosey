@@ -1,6 +1,8 @@
 ## Howdy! My name is Matthew Nguyen 👋
 ### 📖 &nbsp; About me
 I'm a Full Stack Software Engineer, Yelp enthusiast, and gym rat. I am open to connect and would love to help build new projects. 
+<br></br>
+• ![Linkedin](https://camo.githubusercontent.com/aa0686735f1fb9f6de94d5547ef1187d27d8ac395861a2133427c8b11d50d202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465)
 • :mailbox: &nbsp; Let's connect! [itsmatthewnguyen@gmail.com](itsmatthewnguyen@gmail.com)
 
 #### Languages & tools I have used:
