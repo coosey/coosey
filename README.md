@@ -14,14 +14,14 @@ I'm a Full Stack Software Engineer, Yelp enthusiast, and gym rat. I am open to c
 ![PostgreSQL](https://camo.githubusercontent.com/cde1de2a4084717e9b39bbf584b3e7ce7f013102628bc610e716fe0d15da9fb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2532302d2532333333363739312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465)
 ![MongoDB](https://camo.githubusercontent.com/f730166e698595a9613793ab480ba080f1dad583b76ae2d5064769834d699597/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422532302d2532333437413234382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d7768697465)
 <br></br>
-
+```javascript
 const otherTools = {
   frontEnd: [Material UI, React Bootstrap, Axios],
   testing: [Jest, Mocha, Chai, Loader.io, K6, Postman],
   deployment: [Docker, NGINX, AWS],
   developerTools: [Git, NPM, Webpack, Babel, TDD]
 }
-
+```
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
