@@ -16,10 +16,10 @@ I'm a Full Stack Software Engineer, Yelp enthusiast, and gym rat. I am open to c
 <br></br>
 ```javascript
 const otherTools = {
-  frontEnd: [Material UI, React Bootstrap, Axios],
-  testing: [Jest, Mocha, Chai, Loader.io, K6, Postman],
-  deployment: [Docker, NGINX, AWS],
-  developerTools: [Git, NPM, Webpack, Babel, TDD]
+  frontEnd: ["Material-UI", "React-Bootstrap", "Axios"],
+  testing: ["Jest", "Mocha", "Chai", "Loader.io", "K6", "Postman"],
+  deployment: ["Docker", "NGINX", "AWS"],
+  developerTools: ["Git", "NPM", "Webpack", "Babel", "TDD"]
 }
 ```
 <!--
