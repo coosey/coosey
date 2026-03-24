@@ -1,8 +1,8 @@
-## Howdy! My name is Matthew Nguyen 👋
+## Hi my name is Matthew Nguyen 👋
 ### 📖 &nbsp; About me
-I'm currently a Frontend Developer at 777 Partners within the Aviation sector ✈️
+I'm a Frontend Software Engineer building complex frontend systems
 <br></br>
-Not only do I enjoy learning new technologies, my other personal hobbies include looking for new restaurants, playing video/board games, and working out. Coming out of a long hiatus, I am open to connect and would love to help build new projects!
+Currently looking for new opportunities. I am open to connect and would love to help build new projects!
 <br></br>
 :mailbox: &nbsp; Let's connect! [itsmatthewnguyen@gmail.com](itsmatthewnguyen@gmail.com)
 <br></br>
@@ -29,14 +29,7 @@ Not only do I enjoy learning new technologies, my other personal hobbies include
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br></br>
-```javascript
-const otherTools = {
-  tools: ["Material-UI", "React-Bootstrap", "Axios"],
-  testing: ["Jest", "Mocha", "Chai", "Loader.io", "K6", "Postman"],
-  deployment: ["Docker", "NGINX", "AWS"],
-  developerTools: ["Git", "NPM", "Webpack", "Babel", "Agile methodologies", "TDD"]
-}
-```
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
